@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-18T06:20:15",
-  "description": "## [1.5.0](https://github.com/bradatkinson96/focus-patches/compare/v1.4.0...v1.5.0) (2026-11-18)\n\n### ✨ New Features\n\n* settings, wind-down banner, adaptive cap and long-video mode ([2fab4bc](https://github.com/bradatkinson96/focus-patches/commit/2fab4bc1ee782d5125b60c2c98f686fc7ec9ba26))",
-  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.5.0/patches-1.5.0.mpp",
+  "created_at": "2026-11-18T06:37:05",
+  "description": "## [1.6.0](https://github.com/bradatkinson96/focus-patches/compare/v1.5.0...v1.6.0) (2026-11-18)\n\n### ✨ New Features\n\n* daily budget replaces sessions ([e38f202](https://github.com/bradatkinson96/focus-patches/commit/e38f2020babd8d540e56443f7c22356187b8c66b))",
+  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.6.0/patches-1.6.0.mpp",
   "signature_download_url": "",
-  "version": "1.5.0"
+  "version": "1.6.0"
 }
