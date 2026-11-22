@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-18T17:12:08",
-  "description": "## [1.11.0](https://github.com/bradatkinson96/focus-patches/compare/v1.10.0...v1.11.0) (2026-11-18)\n\n### ✨ New Features\n\n* Reddit fullscreen video shows only the tapped video ([f9e8b10](https://github.com/bradatkinson96/focus-patches/commit/f9e8b10ca1cd166110b7a88c944d26ddf6d87138))",
-  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.11.0/patches-1.11.0.mpp",
+  "created_at": "2026-11-22T20:29:59",
+  "description": "## [1.12.0](https://github.com/bradatkinson96/focus-patches/compare/v1.11.0...v1.12.0) (2026-11-22)\n\n### ✨ New Features\n\n* YouTube quiet hours off on Sunday night / Monday morning ([f4769cf](https://github.com/bradatkinson96/focus-patches/commit/f4769cf712a6550231dbbe29bff46457508f936c))",
+  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.12.0/patches-1.12.0.mpp",
   "signature_download_url": "",
-  "version": "1.11.0"
+  "version": "1.12.0"
 }
