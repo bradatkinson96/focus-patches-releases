@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-24T06:18:51",
-  "description": "## [1.13.0](https://github.com/bradatkinson96/focus-patches/compare/v1.12.1...v1.13.0) (2026-11-24)\n\n### ✨ New Features\n\n* YouTube has no daily limit on Mondays ([3e21752](https://github.com/bradatkinson96/focus-patches/commit/3e21752cd3d78ea2b406beaea4d8ba3f1ef5a050))",
-  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.13.0/patches-1.13.0.mpp",
+  "created_at": "2026-11-25T09:02:27",
+  "description": "## [1.13.1](https://github.com/bradatkinson96/focus-patches/compare/v1.13.0...v1.13.1) (2026-11-25)\n\n### 🐛 Bug Fixes\n\n* slop filter never treats the Home tab as exempt ([29f7299](https://github.com/bradatkinson96/focus-patches/commit/29f72997ebd08601faa63d6169b6e9533045c913))",
+  "download_url": "https://github.com/bradatkinson96/focus-patches-releases/releases/download/v1.13.1/patches-1.13.1.mpp",
   "signature_download_url": "",
-  "version": "1.13.0"
+  "version": "1.13.1"
 }
